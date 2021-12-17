@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Nay là 31/12/2021",
+    titleWeb: "Nay là 24/12/2021, một ngày Giáng Sinh",
     introTitle: 'Chào Thành đáng iu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
